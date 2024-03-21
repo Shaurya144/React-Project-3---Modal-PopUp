@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import Modal from "./modal";
+import ModalTest from "./modal.jsx";
 import "./modal.css";
 
 export default function ModalTest() {
